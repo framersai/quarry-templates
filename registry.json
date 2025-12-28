@@ -1,0 +1,255 @@
+{
+  "schemaVersion": "1.0",
+  "lastUpdated": "2025-12-28T21:05:15.535Z",
+  "repository": {
+    "name": "Quarry Official Templates",
+    "description": "Official template collection for Quarry Codex",
+    "author": "Framers AI",
+    "website": "https://framers.dev",
+    "license": "MIT"
+  },
+  "categories": [
+    {
+      "id": "general",
+      "name": "General",
+      "description": "Universal templates for any type of content",
+      "icon": "FileText",
+      "color": "#6B7280"
+    },
+    {
+      "id": "technical",
+      "name": "Technical",
+      "description": "Documentation, tutorials, and reference materials",
+      "icon": "Code",
+      "color": "#3B82F6"
+    },
+    {
+      "id": "creative",
+      "name": "Creative",
+      "description": "Writing, storytelling, and artistic projects",
+      "icon": "Palette",
+      "color": "#EC4899"
+    },
+    {
+      "id": "personal",
+      "name": "Personal",
+      "description": "Self-improvement, journaling, and life planning",
+      "icon": "Heart",
+      "color": "#EF4444"
+    },
+    {
+      "id": "business",
+      "name": "Business",
+      "description": "Professional documentation and planning",
+      "icon": "Briefcase",
+      "color": "#8B5CF6"
+    },
+    {
+      "id": "learning",
+      "name": "Learning",
+      "description": "Study materials and educational content",
+      "icon": "GraduationCap",
+      "color": "#10B981"
+    },
+    {
+      "id": "lifestyle",
+      "name": "Lifestyle",
+      "description": "Health, travel, cooking, and daily life",
+      "icon": "Compass",
+      "color": "#F59E0B"
+    },
+    {
+      "id": "research",
+      "name": "Research",
+      "description": "Academic and investigative documentation",
+      "icon": "Microscope",
+      "color": "#06B6D4"
+    }
+  ],
+  "templates": [
+    {
+      "path": "general/blank.json",
+      "id": "blank",
+      "version": "1.0.0",
+      "category": "general",
+      "summary": "Empty canvas for any content",
+      "featured": true
+    },
+    {
+      "path": "general/checklist.json",
+      "id": "checklist",
+      "version": "1.0.0",
+      "category": "general",
+      "summary": "Organize tasks and track completion",
+      "featured": false
+    },
+    {
+      "path": "general/collection.json",
+      "id": "collection",
+      "version": "1.0.0",
+      "category": "general",
+      "summary": "Organize related items together",
+      "featured": false
+    },
+    {
+      "path": "general/project-tracker.json",
+      "id": "project-tracker",
+      "version": "1.0.0",
+      "category": "general",
+      "summary": "Full project management template",
+      "featured": true
+    },
+    {
+      "path": "general/quick-note.json",
+      "id": "quick-note",
+      "version": "1.0.0",
+      "category": "general",
+      "summary": "Fast note-taking for fleeting thoughts",
+      "featured": true
+    },
+    {
+      "path": "general/todo-list.json",
+      "id": "todo-list",
+      "version": "1.0.0",
+      "category": "general",
+      "summary": "Actionable task list with checkboxes",
+      "featured": true
+    },
+    {
+      "path": "technical/architecture.json",
+      "id": "architecture",
+      "version": "1.0.0",
+      "category": "technical",
+      "summary": "System design and architecture documentation",
+      "featured": false
+    },
+    {
+      "path": "technical/concept.json",
+      "id": "concept",
+      "version": "1.0.0",
+      "category": "technical",
+      "summary": "Deep dive into concepts and ideas",
+      "featured": true
+    },
+    {
+      "path": "technical/reference.json",
+      "id": "reference",
+      "version": "1.0.0",
+      "category": "technical",
+      "summary": "Structured technical documentation",
+      "featured": true
+    },
+    {
+      "path": "technical/troubleshooting.json",
+      "id": "troubleshooting",
+      "version": "1.0.0",
+      "category": "technical",
+      "summary": "Solve problems with structured solutions",
+      "featured": false
+    },
+    {
+      "path": "technical/tutorial.json",
+      "id": "tutorial",
+      "version": "1.0.0",
+      "category": "technical",
+      "summary": "Guided learning with actionable steps",
+      "featured": true
+    },
+    {
+      "path": "creative/character-profile.json",
+      "id": "character-profile",
+      "version": "1.0.0",
+      "category": "creative",
+      "summary": "Comprehensive character building",
+      "featured": true
+    },
+    {
+      "path": "creative/story-outline.json",
+      "id": "story-outline",
+      "version": "1.0.0",
+      "category": "creative",
+      "summary": "Structured plot and story planning",
+      "featured": true
+    },
+    {
+      "path": "personal/ability-tracker.json",
+      "id": "ability-tracker",
+      "version": "1.0.0",
+      "category": "personal",
+      "summary": "Track skill progress and mastery",
+      "featured": true
+    },
+    {
+      "path": "personal/daily-planner.json",
+      "id": "daily-planner",
+      "version": "1.0.0",
+      "category": "personal",
+      "summary": "Structured daily planning template",
+      "featured": true
+    },
+    {
+      "path": "personal/goal-setting.json",
+      "id": "goal-setting",
+      "version": "1.0.0",
+      "category": "personal",
+      "summary": "Strategic goal planning with SMART framework",
+      "featured": true
+    },
+    {
+      "path": "personal/journal.json",
+      "id": "journal",
+      "version": "1.0.0",
+      "category": "personal",
+      "summary": "Daily reflection and thought capture",
+      "featured": true
+    },
+    {
+      "path": "personal/progress-tracker.json",
+      "id": "progress-tracker",
+      "version": "1.0.0",
+      "category": "personal",
+      "summary": "Visual progress tracking for goals",
+      "featured": true
+    },
+    {
+      "path": "personal/weekly-review.json",
+      "id": "weekly-review",
+      "version": "1.0.0",
+      "category": "personal",
+      "summary": "Weekly reflection and planning",
+      "featured": true
+    },
+    {
+      "path": "business/meeting-notes.json",
+      "id": "meeting-notes",
+      "version": "1.0.0",
+      "category": "business",
+      "summary": "Structured meeting documentation",
+      "featured": true
+    },
+    {
+      "path": "business/project-plan.json",
+      "id": "project-plan",
+      "version": "1.0.0",
+      "category": "business",
+      "summary": "Full project planning template",
+      "featured": true
+    },
+    {
+      "path": "learning/study-notes.json",
+      "id": "study-notes",
+      "version": "1.0.0",
+      "category": "learning",
+      "summary": "Structured learning and note-taking",
+      "featured": true
+    },
+    {
+      "path": "lifestyle/recipe.json",
+      "id": "recipe",
+      "version": "1.0.0",
+      "category": "lifestyle",
+      "summary": "Complete recipe documentation",
+      "featured": true
+    }
+  ]
+}
